@@ -1,0 +1,11 @@
+{
+  "entries": [
+    {
+      "date": "2000-12-03",
+      "temperature": -100.0,
+      "description": "кеу",
+      "precipitation": 100.0
+    }
+  ],
+  "count": 1
+}
